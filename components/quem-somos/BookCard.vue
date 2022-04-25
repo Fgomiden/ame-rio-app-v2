@@ -1,0 +1,47 @@
+<template>
+  <div>
+    <div
+      class="
+        flex flex-col
+        sm:flex-row
+        shadow
+        h-24
+        bg-white
+        rounded-lg
+        cursor-pointer
+        m-2
+      "
+    >
+      <img
+        class="object-cover w-1/3"
+        :src="
+          book.attributes.cover.data
+            ? book.attributes.cover.data
+            : '@/static/icons/book-open.svg'
+        "
+        alt="Capa Livro"
+      />
+
+      <div class="px-2">
+        <h3 class="text-base font-medium text-gray-800">
+          Nome: {{ book.attributes.name }}
+        </h3>
+        <h3 class="text-base text-gray-600 pt-2">
+          Editora: {{ book.attributes.publisher }}
+        </h3>
+        <h3 class="text-base text-gray-600">
+          Local: {{ book.attributes.publisher_location }}
+        </h3>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'BookCard',
+  props: {
+    book: Object,
+  },
+}
+</script>
