@@ -53,7 +53,7 @@ export default {
   ],
 
   axios: {
-    baseURL: process.env.API_ROUTE || 'http://localhost:1337',
+    baseURL: 'https://ame-rio-api.herokuapp.com' || 'http://localhost:1337',
   },
 
   markdownit: {
