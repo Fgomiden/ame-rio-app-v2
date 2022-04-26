@@ -1,28 +1,18 @@
 <template>
   <div>
     <div
-      class="
-        flex flex-col
-        sm:flex-row
-        shadow
-        h-24
-        bg-white
-        rounded-lg
-        cursor-pointer
-        m-2
-      "
+      class="flex flex-row shadow h-40 bg-white rounded-lg cursor-pointer m-2"
     >
       <img
-        class="object-cover w-1/3"
+        class="flex object-cover w-1/3"
         :src="
           book.attributes.cover.data
-            ? book.attributes.cover.data
-            : '@/static/icons/book-open.svg'
+            ? book.attributes.cover.data.attributes.name
+            : './icons/book-open.svg'
         "
         alt="Capa Livro"
       />
-
-      <div class="px-2">
+      <div class="px-1 py-4">
         <h3 class="text-base font-medium text-gray-800">
           Nome: {{ book.attributes.name }}
         </h3>

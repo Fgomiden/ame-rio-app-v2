@@ -16,7 +16,7 @@
         <!-- md:grid-cols-2 -->
         <div class="grid grid-cols-1">
           <div class="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-lg">
-            <div
+            <!-- <div
               class="
                 flex
                 justify-center
@@ -52,7 +52,7 @@
                 Avenida Presidente Vargas, 446, Sala 605<br />Centro, Rio de
                 Janeiro/RJ. CEP: 20071-000
               </div>
-            </div>
+            </div> -->
 
             <div
               class="

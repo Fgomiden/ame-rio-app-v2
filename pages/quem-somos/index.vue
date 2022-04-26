@@ -68,6 +68,7 @@
                 text-base text-justify text-gray-600
                 m-auto
                 px-5
+                py-2
                 overflow-y-auto
               "
             >
@@ -77,40 +78,43 @@
               Espiritismo do Rio de Janeiro), fundador e presidente da AME-RIO
               (Associação Médico-Espírita do Rio de Janeiro) e sócio-honorário
               da AME PORTO - Associação Médico-Espírita da Área Metropolitana do
-              Porto. Formado em Medicina, pela Escola de Medicina e Cirurgia da
+              Porto. <br />
+              Formado em Medicina, pela Escola de Medicina e Cirurgia da
               UNI-RIO, exercendo a especialidade da Pediatria.
             </p>
           </div>
         </div>
       </div>
-      <!-- <div id="livros">
+      <div id="livros">
         <div>
-          <h3 class="text-xl font-bold py-2">Autor de 10 livros espíritas:</h3>
+          <h3 class="text-xl font-bold py-2">
+            Autor de {{ this.books.data.length }} livros espíritas:
+          </h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full">
-            <div v-for="(book, index) in books.data" :key="index">
+            <div v-for="(book, index) in this.books.data" :key="index">
               <book-card :book="book" />
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
     </div>
   </div>
 </template>
 
 <script>
-import BookCard from '~/components/quem-somos/BookCard.vue'
 import DoctorCard from '~/components/quem-somos/DoctorCard.vue'
+import BookCard from '~/components/quem-somos/BookCard.vue'
 export default {
   components: { DoctorCard, BookCard },
   data() {
     return {
       doctors: {},
-      // books: {},
+      books: {},
     }
   },
   async fetch() {
     this.doctors = await this.$axios.$get('/api/doctors')
-    // this.books = await this.$axios.$get('/api/books')
+    this.books = await this.$axios.$get('/api/books?populate=*')
   },
   fetchOnServer: true,
 }

@@ -6,9 +6,7 @@
     <div class="md:flex-1 mx-auto my-auto px-5">
       <h1
         class="
-          text-center
-          md:text-left
-          text-3xl
+          text-left text-2xl
           md:text-4xl
           tracking-tight
           font-extrabold
@@ -16,7 +14,7 @@
         "
       >
         <span class="block">Associação Médico-Espírita</span>
-        <span class="block">do Rio de Janeiro</span>
+        <span class="block">do Estado do Rio de Janeiro</span>
       </h1>
       <!-- <p
         class="
