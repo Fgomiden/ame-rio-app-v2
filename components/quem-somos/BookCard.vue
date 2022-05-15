@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="flex flex-row shadow h-40 bg-white rounded-lg cursor-pointer m-2"
+      class="flex flex-row shadow h-44 bg-white rounded-lg cursor-pointer m-2"
     >
       <img
         class="flex object-cover w-1/3"
@@ -14,7 +14,7 @@
       />
       <div class="px-1 py-4">
         <h3 class="text-base font-medium text-gray-800">
-          Nome: {{ book.attributes.name }}
+          {{ book.attributes.name }}
         </h3>
         <h3 class="text-base text-gray-600 pt-2">
           Editora: {{ book.attributes.publisher }}
