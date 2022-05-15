@@ -29,7 +29,7 @@ export default {
         hid: 'og:image',
         property: 'og:image',
         content:
-          'https://res.cloudinary.com/ame-rio/image/upload/v1650574464/historico/ame-rio-logo-transparente_3.png',
+          'https://res.cloudinary.com/ame-rio/image/upload/v1652634612/ame-rio-logo.png',
       },
       {
         hid: 'og:url',
