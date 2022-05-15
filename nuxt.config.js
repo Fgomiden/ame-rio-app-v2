@@ -7,17 +7,44 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'AME-RIO',
+    title: 'AME-RIO | Associação Médico Espírita do Rio de Janeiro',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'pt-br',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'AME-RIO | Associação Médico Espírita do Rio de Janeiro',
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Associação Médico Espírita do Rio de Janeiro',
+      },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content:
+          'https://res.cloudinary.com/ame-rio/image/upload/v1650574464/historico/ame-rio-logo-transparente_3.png',
+      },
+      {
+        hid: 'og:url',
+        property: 'og:url',
+        content: 'http://www.ame-rio.org.br',
+      },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        hid: 'canonical',
+        rel: 'canonical',
+        href: 'http://www.ame-rio.org.br',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
