@@ -37,6 +37,14 @@ export default {
           route: '/quem-somos',
         },
         {
+          title: 'Artigos',
+          route: '/posts',
+        },
+        {
+          title: 'Recado',
+          route: '/recado',
+        },
+        {
           title: 'História',
           route: '/historia',
         },
@@ -45,8 +53,8 @@ export default {
           route: '/patrono',
         },
         {
-          title: 'Artigos',
-          route: '/posts',
+          title: 'Mentor',
+          route: '/mentor',
         },
       ],
     }
