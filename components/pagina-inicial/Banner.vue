@@ -16,7 +16,7 @@
         <span class="block">Associação Médico-Espírita</span>
         <span class="block">do Estado do Rio de Janeiro</span>
       </h1>
-      <!-- <p
+      <p
         class="
           mt-3
           text-base text-gray-500
@@ -25,9 +25,9 @@
           lg:mx-0
         "
       >
-        Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem
-        cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
-      </p> -->
+        Instituição que congrega os profissionais de saúde espíritas, cuja
+        diretoria é composta por médicos.
+      </p>
     </div>
   </div>
 </template>
@@ -40,6 +40,6 @@ export default {
 
 <style>
 .bg-stonehenge {
-  background-image: url('~/static/stonehenge.jpg');
+  background-image: url('https://res.cloudinary.com/ame-rio/image/upload/v1653759158/Banner_Ame_Rio.png');
 }
 </style>

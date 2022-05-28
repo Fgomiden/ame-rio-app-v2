@@ -5,14 +5,14 @@
         flex flex-col
         sm:flex-row
         shadow
-        h-24
+        h-28
         bg-white
         rounded-lg
         cursor-pointer
         m-2
       "
     >
-      <div class="px-2">
+      <div class="p-2">
         <h3 class="text-base font-medium text-gray-800">
           {{ doctor.attributes.name }}
         </h3>

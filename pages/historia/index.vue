@@ -131,14 +131,14 @@
           />
         </div>
         <div class="md:px-40">
-          <p>
+          <p class="py-2">
             Aprovada foi a denominação da Entidade: AME-RIO - Associação
             Médico-Espírita do Estado do Rio de Janeiro, bem como seu logotipo,
             que ressalta, no lugar da letra A, um desenho lembrando o
             Pão-de-Açúcar e, no das letras M e E, o desenho de um dólmen
             (monumento druídico, em homenagem a Kardec).
           </p>
-          <p>
+          <p class="py-2">
             Por unanimidade, escolhido foi o espírito Dr. Adolpho Bezerra de
             Menezes como patrono da novel Associação, como acatada a indicação,
             para associados benfeitores, do Sr. Altivo Carissimi Pamphiro e do
@@ -146,7 +146,7 @@
             criação da AME-RIO e o segundo manifestou, em vida, o desejo de
             fundá-la.
           </p>
-          <p>
+          <p class="py-2">
             A sede da AME-RIO, provisória a princípio, ficava na Rua dos
             Inválidos, 34, Sala 401, Centro, Rio de Janeiro.O processo de
             fundação da AME-RIO foi realizado pelo Dr. Americo Domingos Nunes
@@ -154,16 +154,16 @@
             verificado no Rio de Janeiro, após reunião pública patrocinada pelo
             ICEB em 1995.
           </p>
-          <p>
+          <p class="py-2">
             Na oportunidade, o Dr. Americo recusou a incumbência por causa de
             muitos afazeres nos âmbitos médico e doutrinário; neste, era
             Presidente da ADE-RJ - Associação de Divulgadores do Espiritismo do
             Rio de Janeiro; Vice-Presidente e Professor do ICEB, além de
             escritor.A Dr.ª Marlene relatou ao Dr. Americo a urgência da criação
-            da AME-RIO, desejo premente do idealizador das AME´s em todo o País,
+            da AME-RIO, desejo premente do idealizador das AME's em todo o País,
             o querido Dr. Bezerra de Menezes.
           </p>
-          <p>
+          <p class="py-2">
             No mesmo ano, o Dr. Americo, participando como orador, em São Paulo,
             de um Congresso Nacional de Medicina Espírita (MEDNESP 95), quando
             houve a fundação da AME-BRASIL, foi chamado novamente pela Dr.ª
@@ -181,11 +181,11 @@
           />
         </div>
         <div class="md:px-40">
-          <p>
+          <p class="py-2">
             A sessão solene de fundação da AME-RIO foi em 08/10/1995, às 15h, no
             auditório do CELD, com a presença da Dr.ª Marlene Nobre, Presidente
             da AME-BRASIL, que falou acerca da vida e da obra do patrono das
-            AME´s, Dr. Bezerra de Menezes.<br />
+            AME's, Dr. Bezerra de Menezes.<br />
             Estavam presentes, como convidados especiais, o Presidente do CELD,
             Altivo C. Pamphiro; o representante da Federação Espírita
             Brasileira, Dr. Lauro Santiago; o confrade Sergio Nascimento,
@@ -264,23 +264,24 @@
           />
         </div>
         <div class="md:px-40">
-          <p>
-            Anualmente, sempre no primeiro domingo de agosto, pela manhã, a
-            AME-RIO é responsável por um Seminário.
+          <p class="py-2">
+            Nos primeiros anos de funcionamento a AME-RIO a AME-RIO foi
+            responsável por seminários bem concorridos, todos os anos, com
+            participação também de convidados de outros estados.
           </p>
-          <p>
+          <p class="py-2">
             O primeiro Seminário, ocorrido em 01/08/99, teve como tema
             Reencarnação - Trilha da Libertação, com a participação dos oradores
             Arleir Francisco Bellieny, Henrique de Oliveira Fernandes, Milton
             Menezes, Jorge Andréa dos Santos, José Henrique Rubim de Carvalho,
             Sergio Fernandes Aleixo e Americo Domingos Nunes Filho.
           </p>
-          <p>
+          <p class="py-2">
             O segundo Seminário, ocorrido em 06/08/2000, abordou a matéria TVP e
             Sexualidade, com os oradores Arleir Bellieny, Milton Menezes e
             Henrique de Oliveira Fernandes.
           </p>
-          <p>
+          <p class="py-2">
             O terceiro Seminário, em 05/08/2001, enfocou A Doutrina da
             Reencarnação, sob a responsabilidade dos confrades Sergio Felipe de
             Oliveira, de São Paulo, e Jorge Andréa dos Santos, do Rio de
@@ -288,41 +289,40 @@
             Ansiedade e Depressão, com o orador Isaías Claro, de Osvaldo Cruz,
             SP.
           </p>
-          <p>
+          <p class="py-2">
             O quinto Seminário, em 03/08/2003, ficou a cargo do escritor carioca
             Sergio Fernandes Aleixo, que realizou palestra referente ao
             lançamento do livro, de sua autoria, Meu Novo Nome - A Identidade
             Profética da Doutrina Espírita, da Editora do CELD.
           </p>
-          <p>
+          <p class="py-2">
             O sexto Seminário aconteceu em 01/08/2004, sobre o tema Sexualidade
             e Espiritismo, com os oradores e escritores: Americo Domingos Nunes
             Filho e Jorge Andréa dos Santos. Na ocasião, houve o lançamento da
             obra Sexualidade à Luz da Doutrina Espírita, do primeiro, editada
             pelo CELD.
           </p>
-          <p>
+          <p class="py-2">
             O sétimo Seminário da AME-RIO ocorreu em 07/08/2005, com o Dr. José
             Henrique Rubim de Carvalho abordando a matéria Hiperatividade e
             Déficit de Atenção.
           </p>
-          <p>
+          <p class="py-2">
             O oitavo Seminário da AME-RIO foi realizado, em 6/08/2006, com o
             Presidente, Dr. Americo Domingos Nunes Filho, na apresentação do
             tema "Células-Tronco à Luz da Doutrina Espírita".
           </p>
-          <p>
-            A atual diretoria executiva da AME-RIO, para o triênio 2011/2014, é
+          <p class="py-2">
+            A atual diretoria executiva da AME-RIO, para o triênio 2022/2024, é
             composta dos seguintes membros: Presidente - Dr. Americo Domingos
-            Nunes Filho; Vice-Presidente – Dr. Antônio Carlos Alves Paes;
-            Primeiro-Secretário - Dr. Leon Levy; Segundo-Secretário - Dr.Lucídio
-            Godinho Meireles; Tesoureiro - Dr. Danilo Júlio Lucca.
+            Nunes Filho; Vice-Presidente – Dr. Leon Levy; Primeiro-Secretário-
+            Antônio Carlos Alves Paes; Segundo-Secretário - Dr. Lucídio Godinho
+            Meireles; Tesoureiro - Dr. Danilo Júlio Lucca.
           </p>
-          <p>
-            Sede: Avenida Presidente Vargas, 446, sala 605 - Parte, Centro, Rio
-            de Janeiro/RJ CEP: 20071-000 Nosso endereço para correspondência:
-            Estrada do Limoeiro 1065, Limoeiro, CEP 25940-000,
-            Guapimirim-RJ(A/C: Dr. Américo Domingos Nunes Filho)
+          <p class="py-2">
+            Sede: Rua Planalto Mineiro, 45, Parte, Vila Valqueire, CEP
+            21.330-310, Rio de Janeiro/RJ Contato pelo e-mail: amecgs@gmail.com,
+            Telefone: 21-996060767
           </p>
         </div>
       </div>

@@ -72,15 +72,15 @@
                 overflow-y-auto
               "
             >
-              Américo Domingos Nunes Filho é escritor, orador e pesquisador
-              espírita, radicado na cidade do Rio de Janeiro, fundador e
-              vice-presidente da ADE-RJ (Associação de Divulgadores do
-              Espiritismo do Rio de Janeiro), fundador e presidente da AME-RIO
-              (Associação Médico-Espírita do Rio de Janeiro) e sócio-honorário
-              da AME PORTO - Associação Médico-Espírita da Área Metropolitana do
-              Porto. <br />
-              Formado em Medicina, pela Escola de Medicina e Cirurgia da
-              UNI-RIO, exercendo a especialidade da Pediatria.
+              Américo Domingos Nunes Filho é escritor, pesquisador, orador
+              nacional e internacional, radicado na cidade do Rio de Janeiro,
+              fundador e presidente da AME-RIO (Associação Médico-Espírita do
+              Rio de Janeiro), fundador da AME-BRASIL (Associação
+              Médico-Espírita do Brasil), fundador da AME-Internacional
+              (Associação Médico-Espírita Internacional).<br />Formado em
+              Medicina, pela Escola de Medicina e Cirurgia da UNI-RIO
+              (Universidade Federal do Estado do Rio de Janeiro), exercendo a
+              especialidade da Pediatria.
             </p>
           </div>
         </div>

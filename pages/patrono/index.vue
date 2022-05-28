@@ -17,7 +17,7 @@
       <div class="flex justify-center">
         <div class="px-5 md:px-40">
           <div class="flex flex-col text-center">
-            <h3 class="font-bold text-xl">Biografia do patrono da AME-RIO</h3>
+            <h3 class="font-bold text-xl">Dr. Bezerra de Menezes</h3>
           </div>
           <div class="flex flex-col py-4">
             <img
