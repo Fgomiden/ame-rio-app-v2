@@ -19,7 +19,7 @@
         <p class="py-2">
           É importante que nos integremos cada vez mais nessa doutrina que nos
           traz o Cristo de volta. Acima de todas as convenções humanas, fomos
-          outorgados como servidores de jesus. Importante que nos mantenhamos
+          outorgados como servidores de Jesus. Importante que nos mantenhamos
           vigilantes e dispostos sempre em busca da nossa renovação espiritual.
         </p>
         <p class="py-2">
@@ -29,7 +29,7 @@
           nosso semelhante e a nós mesmos igualmente necessitados.
         </p>
         <p class="py-2">
-          O nosso site (www.Ame-rio.Org.Br) e e-mail (amecgs@gmail.Com) são
+          O nosso site (www.ame-rio.org.br) e e-mail (amecgs@gmail.com) são
           inundados de solicitações de amparo por irmãos em humanidade, passando
           por sofrimentos atrozes, vivenciando sérias crises no campo íntimo e
           físico, buscando palavras de apoio e de incentivo para se reerguerem.
@@ -46,15 +46,6 @@
           coragem o nosso excelso cristo, colocando-o acima de nossas
           imperfeições e das convenções humanas. Acima de qualquer título ou
           rótulo, o mais valioso e autêntico é o de sermos servidor do cristo.
-        </p>
-        <p class="py-2">
-          Quando retornarmos à verdadeira pátria, o que carregaremos na bagagem?
-          Ilusão, vaidade, presunção descabida, egoísmo, orgulho ou a certeza do
-          dever cumprido? Urge, se for o caso, retomarmos o caminho da
-          singeleza, da humildade, da mansidão. Jesus, nosso guia maior, caminho
-          da verdade e da vida, está nos observando e espera de todos nós que
-          estejamos engolfados com ele no trabalho redentor de nossa reeducação
-          espiritual e de nossos semelhantes.
         </p>
         <p class="py-2">
           Quando retornarmos à verdadeira pátria, o que carregaremos na bagagem?
