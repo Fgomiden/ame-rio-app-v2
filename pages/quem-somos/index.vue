@@ -19,10 +19,10 @@
         <h3 class="text-xl font-bold py-2">Diretoria</h3>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full">
           <div
-            v-for="(doctor, index) in this.doctors.data.filter(
+            v-for="doctor in this.doctors.data.filter(
               (d) => d.attributes.field == 'Diretoria'
             )"
-            :key="index"
+            :key="doctor.id"
           >
             <doctor-card :doctor="doctor" />
           </div>
@@ -32,10 +32,10 @@
         <h3 class="text-xl font-bold py-2">Conselho Fiscal</h3>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full">
           <div
-            v-for="(doctor, index) in this.doctors.data.filter(
+            v-for="doctor in this.doctors.data.filter(
               (d) => d.attributes.field == 'Conselho Fiscal'
             )"
-            :key="index"
+            :key="doctor.id"
           >
             <doctor-card :doctor="doctor" />
           </div>
@@ -113,7 +113,7 @@ export default {
     }
   },
   async fetch() {
-    this.doctors = await this.$axios.$get('/api/doctors')
+    this.doctors = await this.$axios.$get('api/doctors?sort[0]=id%3Aasc')
     this.books = await this.$axios.$get('/api/books?populate=*')
   },
   fetchOnServer: true,
