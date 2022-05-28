@@ -1,7 +1,14 @@
 <template>
   <div class="flex flex-col md:flex-row">
     <div
-      class="mx-auto md:flex-1 bg-stonehenge h-80 w-4/6 bg-no-repeat bg-cover"
+      class="
+        md:mx-auto md:flex-1
+        bg-stonehenge
+        h-56
+        md:h-80 md:w-4/6
+        bg-no-repeat bg-contain
+        lg:bg-cover
+      "
     ></div>
     <div class="md:flex-1 mx-auto my-auto px-5">
       <h1
