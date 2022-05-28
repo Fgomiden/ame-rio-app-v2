@@ -24,6 +24,9 @@
           />
         </div>
       </section>
+      <section id="atividades">
+        <atividades />
+      </section>
       <section id="fale-conosco">
         <contact-form />
       </section>
@@ -32,10 +35,11 @@
 </template>
 
 <script>
+import Atividades from '~/components/pagina-inicial/Atividades.vue'
 import Banner from '~/components/pagina-inicial/Banner.vue'
 import ContactForm from '~/components/pagina-inicial/ContactForm.vue'
 import PrincipleCard from '~/components/pagina-inicial/PrincipleCard.vue'
 export default {
-  components: { PrincipleCard, Banner, ContactForm },
+  components: { PrincipleCard, Banner, ContactForm, Atividades },
 }
 </script>
