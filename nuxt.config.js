@@ -80,7 +80,7 @@ export default {
   ],
 
   axios: {
-    baseURL: 'https://ame-rio-api.herokuapp.com' || 'http://localhost:1337',
+    baseURL: 'https://ame-rio-api.up.railway.app' || 'http://localhost:1337',
   },
 
   markdownit: {
