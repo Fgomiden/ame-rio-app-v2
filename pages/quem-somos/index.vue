@@ -5,13 +5,7 @@
     </div>
     <div v-else class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2
-        class="
-          text-center text-3xl
-          leading-8
-          font-extrabold
-          tracking-tight
-          text-gray-900
-        "
+        class="text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900"
       >
         Quem Somos
       </h2>
@@ -42,48 +36,10 @@
         </div>
       </div>
       <div id="responsavel">
-        <h3 class="text-xl font-bold py-2">
+        <h3 class="text-center text-xl font-bold py-5">
           Apresentação do responsável atual pela Associação
         </h3>
-        <div>
-          <div
-            class="
-              flex flex-col
-              sm:flex-row
-              shadow
-              bg-white
-              rounded-lg
-              h-2/3
-              md:h-48
-              m-2
-            "
-          >
-            <img
-              class="object-cover w-1/3 mx-auto"
-              src="https://res.cloudinary.com/ame-rio/image/upload/v1650556493/americo-em-portugal.jpg"
-              alt="Profile"
-            />
-            <p
-              class="
-                text-base text-justify text-gray-600
-                m-auto
-                px-5
-                py-2
-                overflow-y-auto
-              "
-            >
-              Américo Domingos Nunes Filho é escritor, pesquisador, orador
-              nacional e internacional, radicado na cidade do Rio de Janeiro,
-              fundador e presidente da AME-RIO (Associação Médico-Espírita do
-              Rio de Janeiro), fundador da AME-BRASIL (Associação
-              Médico-Espírita do Brasil), fundador da AME-Internacional
-              (Associação Médico-Espírita Internacional).<br />Formado em
-              Medicina, pela Escola de Medicina e Cirurgia da UNI-RIO
-              (Universidade Federal do Estado do Rio de Janeiro), exercendo a
-              especialidade da Pediatria.
-            </p>
-          </div>
-        </div>
+        <responsible-text/>
       </div>
       <div id="livros">
         <div>
@@ -104,8 +60,9 @@
 <script>
 import DoctorCard from '~/components/quem-somos/DoctorCard.vue'
 import BookCard from '~/components/quem-somos/BookCard.vue'
+import ResponsibleText from '~/components/quem-somos/ResponsibleText.vue'
 export default {
-  components: { DoctorCard, BookCard },
+  components: { DoctorCard, BookCard, ResponsibleText },
   data() {
     return {
       doctors: {},
