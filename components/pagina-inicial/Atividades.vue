@@ -1,15 +1,23 @@
 <template>
-  <div class="py-2 bg-white">
+  <div class="
+        py-2 
+        mx-6
+        flex flex-col
+        relative
+        min-w-0
+        break-words
+        bg-white
+        shadow-lg
+        rounded-lg
+  ">
     <div class="max-w-xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2
-        class="
+      <h2 class="
           text-center text-3xl
           leading-8
           font-extrabold
           tracking-tight
           text-gray-900
-        "
-      >
+        ">
         Atividades Doutrinárias
       </h2>
     </div>

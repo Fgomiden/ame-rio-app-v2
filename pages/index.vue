@@ -5,23 +5,27 @@
         <banner />
       </section>
       <section id="principios">
-        <div class="flex flex-col md:flex-row md:justify-around">
-          <principle-card
-            title="Missão"
-            description="Divulgar para os interessados em saúde a visão científica da medicina espiritual trazida pela doutrina espírita."
-            image="./icons/globe-icon.svg"
-          />
-          <principle-card
-            title="Visão"
-            description="Ser uma entidade que promove e vincula à visão da comunidade
-                científica o espiritismo para o entendimento da Saúde."
-            image="./icons/stethoscope-icon.svg"
-          />
-          <principle-card
-            title="Valores"
-            isValores
-            image="./icons/doctor-icon.svg"
-          />
+        <div class="flex flex-col">
+          <div class="flex flex-col md:flex-row md:justify-around">
+            <principle-card
+              title="Missão"
+              description="Divulgar para os interessados em saúde a visão científica da medicina espiritual trazida pela doutrina espírita."
+              image="./icons/globe-icon.svg"
+            />
+            <principle-card
+              title="Visão"
+              description="Ser uma entidade que promove e vincula à visão da comunidade
+                  científica o espiritismo para o entendimento da Saúde."
+              image="./icons/stethoscope-icon.svg"
+            />
+          </div>
+          <div class="flex">
+            <principle-card
+              title="Valores"
+              isValores
+              image="./icons/doctor-icon.svg"
+            />
+          </div>
         </div>
       </section>
       <section id="atividades">

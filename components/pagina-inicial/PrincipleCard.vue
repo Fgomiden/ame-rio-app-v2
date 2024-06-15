@@ -20,10 +20,10 @@
               <img class="w-auto" :src="image" alt="Icon" />
             </div>
             <h6 class="text-xl font-semibold">{{ title }}</h6>
-            <p class="mt-2 mb-4 text-gray-600">
+            <p class="mt-2 mb-4 text-gray-600 text-lg">
               {{ description }}
             </p>
-            <div v-if="isValores" class="mt-2 mb-4 text-gray-600 text-justify">
+            <div v-if="isValores" class="mt-2 mb-4 mx-6 text-lg text-gray-600 text-justify">
               1. A medicina espiritual como exercício legítimo e ético.<br />
               2. Entendimento da saúde integral do homem na visão espírita sob a
               égide de Jesus.<br />
