@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Cartas a um sacerdote e a reencarnação",
+            "description": "Parceria com Luiz Antônio Millecco",
+            "publisher": "Editora EME",
+            "publisher_location": "Capivari, SP",
+            "available": "0",
+            "cover": ""
+        },
+        {
+            "id": "2",
+            "name": "O Consolador entre nós",
+            "publisher": "Editora O Clarim",
+            "publisher_location": "Matão, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "3",
+            "name": "Sexualidade e Espiritismo",
+            "publisher": "Editora CELD",
+            "publisher_location": "Rio de Janeiro, RJ",
+            "available": "0",
+            "cover": ""
+        },
+        {
+            "id": "4",
+            "name": "Medicina e Espiritismo",
+            "description": "Parceria publicada pela AME-BRASIL (Associação Médico-Espírita do Brasil)",
+            "publisher": "Editora Fé",
+            "publisher_location": "São Paulo, SP",
+            "available": "0",
+            "cover": ""
+        },
+        {
+            "id": "5",
+            "name": "Porque sou espírita",
+            "publisher": "Editora EME",
+            "publisher_location": "Capivari, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "6",
+            "name": "Razão e Dogma",
+            "publisher": "Editora O Clarim",
+            "publisher_location": "Matão, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "7",
+            "name": "A Queda dos Véus",
+            "publisher": "Editora CELD",
+            "publisher_location": "Rio de Janeiro, RJ",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "8",
+            "name": "A Verdade Mais Além",
+            "publisher": "Editora EME",
+            "publisher_location": "Capivari, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "9",
+            "name": "Atualidade Espírita",
+            "description": "Parceria com Aureliano Alves Neto e Celso Martins",
+            "publisher": "Editora O Clarim",
+            "publisher_location": "Matão, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "10",
+            "name": "Sexualidade à Luz da Doutrina Espírita",
+            "publisher": "Editora CELD",
+            "publisher_location": "Rio de Janeiro, RJ",
+            "available": "0",
+            "cover": ""
+        },
+        {
+            "id": "11",
+            "name": "Reencarnação questão de lógica",
+            "publisher": "Editora EME",
+            "publisher_location": "Capivari, SP",
+            "available": "1",
+            "cover": ""
+        },
+        {
+            "id": "12",
+            "name": "Les maladies mentales et autres maladies expliquées à la lumière de la Doctrine Spirite",
+            "description": "Publicado pela APES - Association Parisienne d'Études Spirites",
+            "publisher": "APES",
+            "publisher_location": "Paris, França",
+            "available": "1",
+            "cover": ""
+        }
+    ]
+}

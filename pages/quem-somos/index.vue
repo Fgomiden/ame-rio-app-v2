@@ -14,7 +14,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full">
           <div
             v-for="doctor in this.doctors.data.filter(
-              (d) => d.attributes.field == 'Diretoria'
+              (d) => d.field == 'Diretoria'
             )"
             :key="doctor.id"
           >
@@ -27,7 +27,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full">
           <div
             v-for="doctor in this.doctors.data.filter(
-              (d) => d.attributes.field == 'Conselho Fiscal'
+              (d) => d.field == 'Conselho Fiscal'
             )"
             :key="doctor.id"
           >
@@ -65,13 +65,16 @@ export default {
   components: { DoctorCard, BookCard, ResponsibleText },
   data() {
     return {
-      doctors: {},
-      books: {},
+      doctors: [],
+      books: [],
     }
   },
   async fetch() {
-    this.doctors = await this.$axios.$get('api/doctors?sort[0]=id%3Aasc')
-    this.books = await this.$axios.$get('/api/books?populate=*')
+    this.doctors = await this.$axios.$get('/data/doctors.json',{ baseURL: window.location.origin })
+    console.log("doctors",this.doctors)
+
+    this.books = await this.$axios.$get('/data/books.json',{ baseURL: window.location.origin })
+    console.log("books",this.books)
   },
   fetchOnServer: true,
 }

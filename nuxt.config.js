@@ -77,11 +77,7 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     '@nuxtjs/markdownit',
-  ],
-
-  axios: {
-    baseURL: 'https://ame-rio-api.up.railway.app' || 'http://localhost:1337',
-  },
+  ], 
 
   markdownit: {
     preset: 'default',

@@ -41,24 +41,6 @@
         Regiane Gonzaga, Editora EME, 2020. Prefaciador de duas obras do
         escritor e pesquisador Paulo Neto: “A mudança de caligrafia nas
         psicografias” (2021) e “A perturbação durante a vida uterina” (2022).
-        <br /> <br/>
-        Américo Nunes Filho é autor de doze livros: 1-“Cartas a um sacerdote”,
-        em parceria com Luiz Antônio Millecco, pela Editora EME, de Capivari, SP
-        (esgotado); 2- “O Consolador entre nós’, pela Editora O Clarim, de
-        Matão, SP; 3- “Sexualidade e Espiritismo”, pela Editora CELD, RJ
-        (esgotado); 4- “Medicina e Espiritismo“ (em parceria) publicada pela
-        AME-BRASIL (Associação Médico-Espírita do Brasil), Editora Fé, SP
-        (esgotado), 5- “Por que sou espírita”, pela Editora EME; 6- “Razão e
-        dogma”, pela Editora O Clarim; 7- “A Queda dos véus”, pela Editora CELD,
-        RJ (esgotado); 8- “A Verdade mais além”, pela EME; 9- “Atualidade
-        espírita”, em parceria com Aureliano Alves Neto e Celso Martins, pela
-        Editora O Clarim; 10- “Sexualidade à luz da Doutrina Espírita”, pela
-        Editora CELD (esgotado); 11- “Reencarnação-questão de lógica”, pela
-        Editora EME, de Capivari, SP e 12- “Les maladies mentales et autres
-        maladies expliquées à la lumière de la Doctrine Spirite”, publié par
-        Association Parisienne dÉtudes Spirites-APES (Doenças Mentais e Outras
-        Doenças Explicadas à Luz da Doutrina Espírita, publicado pela
-        Association Parisienne d'Études Spirites-APES), em Paris.
       </p>
     </div>
   </div>

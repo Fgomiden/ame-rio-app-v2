@@ -8,19 +8,18 @@
         h-28
         bg-white
         rounded-lg
-        cursor-pointer
         m-2
       "
     >
       <div class="p-2">
         <h3 class="text-base font-medium text-gray-800">
-          {{ doctor.attributes.name }}
+          {{ doctor.name }}
         </h3>
         <h3 class="text-base text-gray-600 pt-2">
-          {{ doctor.attributes.role }}
+          {{ doctor.role }}
         </h3>
         <h3 class="text-base text-gray-600">
-          {{ doctor.attributes.profession }}
+          {{ doctor.profession }}
         </h3>
       </div>
     </div>
