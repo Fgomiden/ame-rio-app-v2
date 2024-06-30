@@ -1,21 +1,22 @@
 <template>
   <div>
     <div
-      class="flex flex-row shadow h-48 bg-white rounded-lg m-2"
+      class="flex flex-row shadow h-60 bg-white rounded-lg m-2"
     >
-      <img v-if="book.cover"
-        class="flex object-cover w-1/3"
-        :src="book.cover"
-        alt="Capa Livro"
-      />
-      <div class="flex flex-col justify-center py-4 mx-4 my-8">
-        <h3 class="text-base font-medium text-gray-800">
+      <div class="flex">
+        <img v-if="book.cover"
+          :src="book.cover"
+          alt="Capa Livro"
+        />
+      </div>
+      <div class="flex flex-col w-80 md:w-52 justify-center py-4 mx-4 my-8">
+        <h3 class="text-base font-medium text-gray-600">
           {{ book.name }}
         </h3>
         <h3 v-if="book.available == 0" class="text-base text-gray-600">
           (Esgotado)
         </h3>
-        <h3 class="text-base text-gray-600 pt-2">
+        <h3 class="text-sm text-gray-600 pt-2">
           {{ book.description }}
         </h3>        
         <h3 class="text-base text-gray-600 pt-2">

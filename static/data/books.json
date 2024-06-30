@@ -7,7 +7,7 @@
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
             "available": "0",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_1.jpg"
         },
         {
             "id": "2",
@@ -15,7 +15,7 @@
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_2.jpg"
         },
         {
             "id": "3",
@@ -23,7 +23,7 @@
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
             "available": "0",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1652634500/livros/livros_americo_11.jpg"
         },
         {
             "id": "4",
@@ -40,7 +40,7 @@
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_3.jpg"
         },
         {
             "id": "6",
@@ -48,7 +48,7 @@
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_4.jpg"
         },
         {
             "id": "7",
@@ -56,7 +56,7 @@
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_5.jpg"
         },
         {
             "id": "8",
@@ -64,7 +64,7 @@
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_6.jpg"
         },
         {
             "id": "9",
@@ -73,7 +73,7 @@
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988478/livros/livros_americo_7.jpg"
         },
         {
             "id": "10",
@@ -81,7 +81,7 @@
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
             "available": "0",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988478/livros/livros_americo_8.jpg"
         },
         {
             "id": "11",
@@ -89,7 +89,7 @@
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650991212/livros/livros_americo_9.jpg"
         },
         {
             "id": "12",
@@ -98,7 +98,7 @@
             "publisher": "APES",
             "publisher_location": "Paris, França",
             "available": "1",
-            "cover": ""
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1652634500/livros/livros_americo_10.jpg"
         }
     ]
 }
