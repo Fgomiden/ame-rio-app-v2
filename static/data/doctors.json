@@ -44,13 +44,27 @@
         },
         {
             "Id": "7",
+            "name": "Dra. Marenízia Basílio de Souza",
+            "profession": "Médica Pediatra",
+            "role": "Titular",
+            "field": "Conselho Fiscal"
+        },
+        {
+            "Id": "8",
+            "name": "Dr. Ricardo Rodrigues",
+            "profession": "Médico Gerontologista",
+            "role": "Titular",
+            "field": "Conselho Fiscal"
+        },
+        {
+            "Id": "9",
             "name": "Dra. Darcy Eiko Nakayama",
             "profession": "Médica Oftalmologista",
             "role": "Suplente",
             "field": "Conselho Fiscal"
         },
         {
-            "Id": "8",
+            "Id": "10",
             "name": "Dr. Mauro Travassos Faria",
             "profession": "Médico Clínico",
             "role": "Suplente",

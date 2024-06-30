@@ -1,34 +1,27 @@
 <template>
   <div>
-    <div
-      class="flex flex-col shadow bg-white rounded-lg h-2/3 m-2"
-    >
-      <img
-        class="object-cover w-56 mx-auto"
-        src="https://res.cloudinary.com/ame-rio/image/upload/v1650556493/americo-em-portugal.jpg"
-        alt="Profile"
-      />
-      <p
-        class="text-base text-justify text-gray-600 m-auto px-5 py-6"
-      >
+    <div class="flex flex-col shadow bg-white rounded-lg h-2/3 m-2">
+      <img class="object-cover w-56 mx-auto"
+        src="https://res.cloudinary.com/ame-rio/image/upload/v1650556493/americo-em-portugal.jpg" alt="Profile" />
+      <p class="text-base text-justify text-gray-600 m-auto px-5 py-6">
         O escritor, orador e pesquisador espírita, o médico Américo Domingos
         Nunes Filho é radicado na cidade do Rio de Janeiro, onde frequentou a
         Escola de Medicina e Cirurgia (Uni-Rio), especializando na área da
         Pediatria. É fundador e presidente da Associação Médico-Espírita do Rio
         de Janeiro (AME-RIO). Membro-fundador da AME-Brasil (Associação
         Médico-Espírita do Brasil) e AME-Internacional (Associação
-        Médico-Espírita Internacional).<br /> <br/>
+        Médico-Espírita Internacional).<br /> <br />
         Foi, durante alguns anos, vice-presidente e professor do Instituto de
         Cultura Espírita do Brasil (ICEB). Durante muitos anos, pela Instituição
         Espírita Cooperadores do Bem Amélie Boudet, prestou assistência
         religiosa aos reeducandos penais do Presídio Ponto Zero, em Benfica, Rio
-        de Janeiro. <br /> <br/>
+        de Janeiro. <br /> <br />
         Participou de inúmeros programas na Rádio Rio de Janeiro, 1400 kHz, AM.
         Produtor de cinema e vídeo espíritas, através do Centro Audiovisual
         Espírita (CAVE). Participou no roteiro do filme espírita “Vidas
         Partidas”. Articulista de numerosos periódicos espíritas, como Correio
         Espírita (RJ), Revista Eletrônica O consolador (PR) e O Imortal (PR).
-        <br /> <br/>
+        <br /> <br />
         Como orador, participou de vários seminários e congressos em diversos
         estados do País e no Exterior (2017-Portugal e França; 2019-Portugal).
         Articulista, com centenas de matérias publicadas em revistas e jornais,
@@ -37,10 +30,14 @@
         França (“Acárdicos – Fetos sem espírito”), publicada na Revue Spirit
         (Revista Espírita) (nº 36, 3º trimestre de 1998), criada por Allan
         Kardec e relançada pelo Conselho Espírita Internacional (CEI).
+        <br /> <br />
         Colaborador na apresentação da obra “O autismo em minha vida”, de
-        Regiane Gonzaga, Editora EME, 2020. Prefaciador de duas obras do
+        Regiane Gonzaga, Editora EME, 2020.
+        <br /> <br />
+        Prefaciador das seguintes obras do
         escritor e pesquisador Paulo Neto: “A mudança de caligrafia nas
-        psicografias” (2021) e “A perturbação durante a vida uterina” (2022).
+        psicografias” (2021), “A perturbação durante a vida uterina” (2022) e
+        "Chico Xavier: uma alma feminina" (2024).
       </p>
     </div>
   </div>

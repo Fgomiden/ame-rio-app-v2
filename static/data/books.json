@@ -1,104 +1,170 @@
 {
     "data": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Cartas a um sacerdote e a reencarnação",
             "description": "Parceria com Luiz Antônio Millecco",
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
-            "available": "0",
+            "available": 0,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_1.jpg"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "O Consolador entre nós",
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_2.jpg"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Sexualidade e Espiritismo",
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
-            "available": "0",
+            "available": 0,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1652634500/livros/livros_americo_11.jpg"
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "Medicina e Espiritismo",
             "description": "Parceria publicada pela AME-BRASIL (Associação Médico-Espírita do Brasil)",
             "publisher": "Editora Fé",
             "publisher_location": "São Paulo, SP",
-            "available": "0",
-            "cover": ""
+            "available": 0,
+            "preface": 0,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719768295/medicina-e-espiritismo_nirer7.webp"
         },
         {
-            "id": "5",
+            "id": 5,
+            "name": "Boletim Médico-Espírita N10 - MEDNESP 95",
+            "description": "Co-autor publicada pela AME-SP (Associação Médico-Espírita do Estado de São Paulo)",
+            "publisher": "AME-SP",
+            "publisher_location": "São Paulo, SP",
+            "available": 0,
+            "preface": 0,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719768296/mednesp-95_c5jssh.jpg"
+        },
+        {
+            "id": 6,
             "name": "Porque sou espírita",
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_3.jpg"
         },
         {
-            "id": "6",
+            "id": 7,
             "name": "Razão e Dogma",
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_4.jpg"
         },
         {
-            "id": "7",
+            "id": 8,
             "name": "A Queda dos Véus",
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_5.jpg"
         },
         {
-            "id": "8",
+            "id": 9,
             "name": "A Verdade Mais Além",
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988477/livros/livros_americo_6.jpg"
         },
         {
-            "id": "9",
+            "id": 10,
             "name": "Atualidade Espírita",
             "description": "Parceria com Aureliano Alves Neto e Celso Martins",
             "publisher": "Editora O Clarim",
             "publisher_location": "Matão, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988478/livros/livros_americo_7.jpg"
         },
         {
-            "id": "10",
+            "id": 11,
             "name": "Sexualidade à Luz da Doutrina Espírita",
             "publisher": "Editora CELD",
             "publisher_location": "Rio de Janeiro, RJ",
-            "available": "0",
+            "available": 0,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650988478/livros/livros_americo_8.jpg"
         },
         {
-            "id": "11",
+            "id": 12,
             "name": "Reencarnação questão de lógica",
             "publisher": "Editora EME",
             "publisher_location": "Capivari, SP",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1650991212/livros/livros_americo_9.jpg"
         },
         {
-            "id": "12",
+            "id": 13,
             "name": "Les maladies mentales et autres maladies expliquées à la lumière de la Doctrine Spirite",
             "description": "Publicado pela APES - Association Parisienne d'Études Spirites",
             "publisher": "APES",
             "publisher_location": "Paris, França",
-            "available": "1",
+            "available": 1,
+            "preface": 0,
             "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1652634500/livros/livros_americo_10.jpg"
+        },
+        {
+            "id": 14,
+            "name": "O autismo em minha vida",
+            "description": "Colaborador na apresentação",
+            "publisher": "Editora EME",
+            "publisher_location": "Capivari, SP",
+            "author":"Regiane Gonzaga",
+            "available": 1,
+            "preface": 1,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719768295/o_autismo_em_minha_vida_q4u9xm.jpg"
+        },
+        {
+            "id": 15,
+            "name": "A mudança de caligrafia nas psicografias",
+            "description": "Prefaciador",
+            "publisher": "",
+            "publisher_location": "",
+            "author":"Paulo Neto",
+            "available": 1,
+            "preface": 1,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719769226/a-mudanca-de-caligrafia-nas-psicografias_hprgcm.jpg"
+        },
+        {
+            "id": 16,
+            "name": "A perturbação durante a vida uterina",
+            "description": "Prefaciador",
+            "publisher": "",
+            "publisher_location": "",
+            "author":"Paulo Neto",
+            "available": 1,
+            "preface": 1,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719769226/a-peturbacao-durante-a-vida-uterina_vpn57x.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Chico Xavier: uma alma feminina",
+            "description": "Prefaciador",
+            "publisher": "",
+            "publisher_location": "",
+            "author":"Paulo Neto",
+            "available": 1,
+            "preface": 1,
+            "cover": "https://res.cloudinary.com/ame-rio/image/upload/v1719769227/Chico-Xavier-alma-feminina_u9klct.png"
         }
     ]
 }

@@ -13,18 +13,21 @@
         <h3 class="text-base font-medium text-gray-600">
           {{ book.name }}
         </h3>
-        <h3 v-if="book.available == 0" class="text-base text-gray-600">
+        <h3 v-if="!book.available" class="text-base text-gray-600">
           (Esgotado)
         </h3>
-        <h3 class="text-sm text-gray-600 pt-2">
+        <h3 v-if="book.description" class="text-sm text-gray-600 pt-2">
           {{ book.description }}
         </h3>        
-        <h3 class="text-base text-gray-600 pt-2">
+        <h3 v-if="book.publisher" class="text-base text-gray-600 pt-2">
           Editora: {{ book.publisher }}
         </h3>
-        <h3 class="text-base text-gray-600">
+        <h3 v-if="book.publisher_location" class="text-base text-gray-600">
           Local: {{ book.publisher_location }}
-        </h3>        
+        </h3>   
+        <h3 v-if="book.author" class="text-base text-gray-600">
+          Autor: {{ book.author }}
+        </h3>      
       </div>
     </div>
   </div>
